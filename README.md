@@ -3,3 +3,4 @@
 - 이름 : **양승환**
 - 나이 : _27_ 살
 - 사는 곳 : 서울시 광진구
+- 관심 분야: ML Serving / Inference Optimization
